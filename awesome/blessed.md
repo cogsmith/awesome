@@ -1,4 +1,4 @@
-# Blessed
+# Awesome Blessed
 
 * https://github.com/chjj/blessed
 
