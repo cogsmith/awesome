@@ -15,6 +15,16 @@
 
 * https://github.com/rse/blessed-xterm
 
+# Helpers
+
+https://github.com/blessedjs/blessed-cli
+
+https://github.com/blessedjs/blessed-themes
+
+# Lists
+
+https://github.com/rajasegar/awesome-blessed
+
 # Alternatives
 
 * https://github.com/cronvel/terminal-kit
@@ -37,6 +47,9 @@
 
 * https://github.com/shobrook/BitVision
 ![](https://github.com/shobrook/BitVision/raw/master/resources/demo.png)
+
+* https://github.com/HP4k1h5/agora
+![](https://github.com/HP4k1h5/agora/raw/main/img/agora.png)
 
 * https://github.com/chjj/termcoin
 
@@ -62,6 +75,18 @@
 
 * https://github.com/golbin/git-commander
 
+## Files
+
+https://github.com/acidjazz/tailol
+
+https://github.com/scommons/far-js
+
+https://github.com/la9527/mdir.js
+
+## System
+
+* https://github.com/MrRio/vtop
+
 ## Web
 
 * https://github.com/shahin8r/http-tui
@@ -74,6 +99,8 @@
 
 * https://github.com/Min-92/blackjack
 
+* https://github.com/readjfb/TerminalTetris
+
 ## Studio
 
 * https://github.com/ajboni/calvo
@@ -83,6 +110,8 @@
 * https://github.com/dundalek/react-blessed-contrib
 
 * https://github.com/gaearon/react-blessed-hot-motion
+
+* https://github.com/dpacmittal/react-blessed-router
 
 ## Vue
 
@@ -97,3 +126,11 @@
 * https://github.com/yaronn/wopr
 ![](https://github.com/yaronn/wopr/raw/master/examples/images/charts.png)
 
+## Sports
+
+https://github.com/cedricblondeau/world-cup-2018-cli-dashboard
+![](https://raw.githubusercontent.com/cedricblondeau/world-cup-2018-cli-dashboard/master/screenshot.gif)
+
+## Graphics
+
+https://github.com/st-ART-up/the-canvas
