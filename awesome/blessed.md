@@ -6,6 +6,7 @@
 
 * https://github.com/chjj/blessed/tree/master/example
 * https://github.com/chjj/blessed/tree/master/test
+* https://github.com/yaronn/blessed-contrib/tree/master/examples
 
 # Widgets
 
