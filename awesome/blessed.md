@@ -40,7 +40,7 @@
 ## Servers
 
 * https://github.com/FormidableLabs/nodejs-dashboard
-
+![](https://camo.githubusercontent.com/2d744683465c2b2ef7758bc0489711b52b8bdf0e63095be6cd807a639dff1e68/687474703a2f2f672e7265636f726469742e636f2f576c55764b6858716e702e676966)
 
 * https://github.com/y-takey/rails-dashboard
 
