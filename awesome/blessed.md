@@ -49,6 +49,7 @@
 * https://github.com/rajasegar/ember-cli-next
 
 * https://github.com/FormidableLabs/webpack-dashboard
+![](https://camo.githubusercontent.com/168acfe4997e36655568a8ae6a6c08eb65f25073a58cf560aeeae1eb91d3fcc8/687474703a2f2f692e696d6775722e636f6d2f714c3664584a642e706e67)
 
 * https://github.com/JoinColony/trufflepig
 
