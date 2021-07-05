@@ -10,6 +10,9 @@
 # Widgets
 
 * https://github.com/yaronn/blessed-contrib
+![](https://github.com/yaronn/blessed-contrib/raw/master/docs/images/truload.png)
+![](https://github.com/yaronn/blessed-contrib/raw/master/docs/images/term3.gif)
+
 * https://github.com/rse/blessed-xterm
 
 # Alternatives
@@ -88,3 +91,9 @@
 ## Productivity
 
 * https://github.com/matthijsgroen/google-todo-cli
+
+## Markup
+
+* https://github.com/yaronn/wopr
+![](https://github.com/yaronn/wopr/raw/master/examples/images/charts.png)
+
